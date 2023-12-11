@@ -2,7 +2,7 @@
 
 Un tout petit programme qui génère un mots de passe avec une longueur définis par l'utilisateur
 
-Il faut appuyer sur 1 pour relancer un nombre aléatoire et 0 pour quitter le programme
+Il faut entrer la longueur du mots de passe désiré
 
 ## Environment Variables
 
